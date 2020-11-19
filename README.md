@@ -21,3 +21,6 @@ Class_C input:30
 Class_C output:30
 Class_B output:20
 Class_A output:10
+
+Note: 
+The exercises are not mine, only the solution. They are part of the book "C++ from theory to practice" written by G. S. Tselikis.
