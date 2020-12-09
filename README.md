@@ -1,10 +1,11 @@
 # A.20.1
-C++ exercise
+# C++ exercise
 
 Set with public hereditarity the hierarchy of classes A, B, and C where A is the base class. Each should contain an integer private member and the public functions get() and show().
 Implement the class in such way so that the following program works.
 
 int main()
+
 {
         
 	C c;
