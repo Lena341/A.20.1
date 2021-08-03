@@ -3,7 +3,7 @@
 
 Set with public hereditarity the hierarchy of classes A, B, and C where A is the base class. Each should contain an integer private member and the public functions get() and show().
 Implement the class in such way so that the following program works.
-
+```
 int main()
 
 {
@@ -30,6 +30,6 @@ Class_C output:30
 Class_B output:20
 
 Class_A output:10
-
+```
 Note: 
 The exercises are not mine, only the solution. They are part of the book "C++ from theory to practice" written by G. S. Tselikis.
